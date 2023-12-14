@@ -53,8 +53,10 @@ insertion_sort(list_of_nums)
 ```
 
 ## Output:
-![d1](https://github.com/velupradeep/Sorting-Algorithm/assets/150329341/82e50f8a-28c2-44c7-90bb-2e9473faf744)
-![d2](https://github.com/velupradeep/Sorting-Algorithm/assets/150329341/4e1815e8-5c20-4f24-bda6-97f7a207c144)
+1.![4 1](https://github.com/velupradeep/Sorting-Algorithm/assets/150329341/a5fd93a9-8688-4025-9171-0906e4d1f8ff)
+2.![4 2](https://github.com/velupradeep/Sorting-Algorithm/assets/150329341/1056a66d-a6a8-4efb-b404-db2d5c992854)
+
+
 
 
 
